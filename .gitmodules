@@ -1,0 +1,6 @@
+[submodule "swagger-ui"]
+	path = swagger-ui
+	url = https://github.com/swagger-api/swagger-ui.git
+[submodule "exp_micro-cms-admin-ui"]
+	path = exp_micro-cms-admin-ui
+	url = https://github.com/gaia-web/exp_micro-cms-admin-ui.git
