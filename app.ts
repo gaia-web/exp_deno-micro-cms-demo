@@ -3,5 +3,5 @@ import { startApp } from "https://raw.githubusercontent.com/SeanWong24/exp_deno-
 startApp({
   OPENAPI_FILE_PATH: "./openapi.json",
   FRONTENDS:
-    `,./www/main,./index.html,./index.html:/admin,./www/admin,./index.html,./index.html:/swagger,./www/swagger,./index.html,./index.html`,
+    `/admin,./www/admin,./index.html,./index.html:/swagger,./www/swagger,./index.html,./index.html:,./www/main,./index.html,./index.html`,
 });
