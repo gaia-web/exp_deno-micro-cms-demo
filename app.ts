@@ -1,4 +1,4 @@
-import { setupApp } from "https://raw.githubusercontent.com/SeanWong24/exp_deno-micro-cms/491350087cc0bb0eca78c6c2c0e301c49c23f699/mod.ts";
+import { setupApp } from "https://raw.githubusercontent.com/SeanWong24/exp_deno-micro-cms/2a7518bc05e37acff7765fde38762d4405b279f0/mod.ts";
 
 const app = await setupApp({
   OPENAPI_FILE_PATH: "./openapi.json",
