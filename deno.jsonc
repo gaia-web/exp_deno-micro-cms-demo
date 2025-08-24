@@ -4,5 +4,6 @@
   "unstable": ["kv"],
   "tasks": {
     "dev": "deno run -A app.ts"
-  }
+  },
+  "exports": "./app.ts"
 }
